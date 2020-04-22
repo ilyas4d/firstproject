@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="git_test" uuid="9B31AD9F2BC5BD42AE44819511728695" collation_locale="fr-ca">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra __stringCompHash="icu:63.1.0" __keywordBuildingHash="icu:63.1.0" data_file_path="\git_test.4DD">
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>
